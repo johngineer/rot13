@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567384788 source:/home/johndc/Documents/code/rot13/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
